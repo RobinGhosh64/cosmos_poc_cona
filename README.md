@@ -1,1 +1,1 @@
-# apim
+# COSMOS Query function
