@@ -3,6 +3,6 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "node",
-    "rghosh-cosmos-sql_DOCUMENTDB" : "AccountEndpoint=https://rghosh-cosmos-sql.documents.azure.com:443/;AccountKey=XXX;"
+    "rghosh-cosmos-sql_DOCUMENTDB" : "Please add this"
   }
 }
